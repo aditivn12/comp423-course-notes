@@ -1,3 +1,8 @@
 site_name: COMP423 Notes
 theme:
   name: material
+  palette:
+    scheme: slate
+  features: 
+    - content.code.copy
+    - content.code.annotations

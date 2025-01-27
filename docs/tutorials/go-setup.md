@@ -57,6 +57,9 @@ git push --set-upstream origin main
 ```
 
 ### **Step 3: Set Up the Dev Container**
+What is a dev container? 
+A dev container is a prefined workspace. It uses docker to make reproducable and isolated work environemnts. 
+
 - Create a .devcontainer folder:
     ``` bash
     mkdir -p .devcontainer

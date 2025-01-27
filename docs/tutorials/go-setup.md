@@ -1,6 +1,8 @@
 # Hello! Welcome to the Go COMP 423 tutorial. We will be setting up a dev container with Go!
 
 ## Prerequistes 
+Primary author: [<Aditi>](https://YourGitHubProfileLink)
+
 Before we start, make sure you have the following:
 - 
 - A GitHub account: If you don't have an account, make sure to create one.
@@ -83,6 +85,8 @@ A dev container is a prefined workspace. It uses docker to make reproducable and
 
 ### Step 4: "Hello COMP423" Program
 - Now that you are inside the container, make sure to create a new Go file:
+!!!note
+    A good idea would be to name it hello.go
 
 - Add the code:
 ``` go

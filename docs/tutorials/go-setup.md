@@ -61,9 +61,9 @@ What is a dev container?
 A dev container is a prefined workspace. It uses docker to make reproducable and isolated work environemnts. 
 
 - Create a .devcontainer folder:
-    ``` bash
+``` bash
     mkdir -p .devcontainer
-    ```
+```
 
 - Create a devcontainer.json file and add configurations:
 ``` json

@@ -1,14 +1,14 @@
 # Hello! Welcome to the Go COMP 423 tutorial. We will be setting up a dev container with Go!
 
 ## Prerequistes 
-Primary author: [<Aditi>](https://YourGitHubProfileLink)
+Primary author: [Aditi](https://github.com/aditivn12)
 
 Before we start, make sure you have the following:
 - 
 - A GitHub account: If you don't have an account, make sure to create one.
-- Git installed: Make sure to install Git.
-- Visual Studio Code (VS Code): Download it if you haven't already.
-- Docker installed: This is a required to run a dev container.
+- Git installed: Make sure to install[Git](https://github.com/).
+- Visual Studio Code (VS Code): [Download](https://code.visualstudio.com/download) it if you haven't already.
+- Docker installed: This is a required to run a dev container. Download it [here](https://www.docker.com/products/docker-desktop/).
 - Command-line basics: You should know the basics!
 
 ### Step 1: Initialize a New Project
@@ -48,8 +48,10 @@ Link your Local Repository to GitHub
 1. Make sure you add the GitHub repository as a remote by doing this:
 
 
-    - git remote add origin https://github.com/<your-username>/comp423-Go-Tutorial.git
-    - Make sure to replace <your-username> with your GitHub username.
+```bash
+git remote add origin https://github.com/your-username/comp423-Go-Tutorial.git
+```
+Replace your-username with your GitHub username.
 
 2. Make sure the default branch is named main. 
 

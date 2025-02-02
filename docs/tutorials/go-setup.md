@@ -2,6 +2,7 @@
 
 ## Prerequistes 
 Primary author: [Aditi](https://github.com/aditivn12)
+//I think this should be moved up above the prerequisites section
 
 Before we start, make sure you have the following:
 - 
@@ -62,7 +63,9 @@ git push --set-upstream origin main
 
 ### **Step 3: Set Up the Dev Container**
 What is a dev container? 
-A dev container is a prefined workspace. It uses docker to make reproducable and isolated work environemnts. 
+A dev container is a predefined workspace. It uses docker to make reproducable and isolated work environemnts. 
+
+//I think you can link the documentation from the class here for more information
 
 - Create a .devcontainer folder:
 ``` bash
@@ -83,7 +86,7 @@ A dev container is a prefined workspace. It uses docker to make reproducable and
 ```
 1. name: A name for the dev container.
 2. image: The docker image for Go.
-3. customizations.vscode.extensions: This is the custimatizations for VS Code in the Go language..
+3. customizations.vscode.extensions: This is the customizations for VS Code in the Go language..
 
 ### Step 4: "Hello COMP423" Program
 - Now that you are inside the container, make sure to create a new Go file:

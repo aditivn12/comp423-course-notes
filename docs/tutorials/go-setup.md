@@ -1,16 +1,22 @@
 # Hello! Welcome to the Go COMP 423 tutorial. We will be setting up a dev container with Go!
 
-## Prerequistes 
 Primary author: [Aditi](https://github.com/aditivn12)
+
+Reviewer: [Aastha](https://github.com/aasthasharm)
+
+## Prerequistes 
+
 //I think this should be moved up above the prerequisites section
 
 Before we start, make sure you have the following:
 - 
-- A GitHub account: If you don't have an account, make sure to create one.
+- A GitHub account: If you don't have an account, make sure to create one at github.com.
 - Git installed: Make sure to install[Git](https://github.com/).
 - Visual Studio Code (VS Code): [Download](https://code.visualstudio.com/download) it if you haven't already.
 - Docker installed: This is a required to run a dev container. Download it [here](https://www.docker.com/products/docker-desktop/).
-- Command-line basics: You should know the basics!
+- Command-line basics: You should know the basics! To learn cli basics you can visit [this website](https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/).
+
+
 
 ### Step 1: Initialize a New Project
 

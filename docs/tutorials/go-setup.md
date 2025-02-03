@@ -6,12 +6,10 @@ Reviewer: [Aastha](https://github.com/aasthasharm)
 
 ## Prerequistes 
 
-//I think this should be moved up above the prerequisites section
-
 Before we start, make sure you have the following:
 - 
 - A GitHub account: If you don't have an account, make sure to create one at github.com.
-- Git installed: Make sure to install[Git](https://github.com/).
+- Git installed: Make sure to install [Git](https://github.com/).
 - Visual Studio Code (VS Code): [Download](https://code.visualstudio.com/download) it if you haven't already.
 - Docker installed: This is a required to run a dev container. Download it [here](https://www.docker.com/products/docker-desktop/).
 - Command-line basics: You should know the basics! To learn cli basics you can visit [this website](https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/).
@@ -69,9 +67,7 @@ git push --set-upstream origin main
 
 ### **Step 3: Set Up the Dev Container**
 What is a dev container? 
-A dev container is a predefined workspace. It uses docker to make reproducable and isolated work environemnts. 
-
-//I think you can link the documentation from the class here for more information
+A dev container is a predefined workspace. It uses docker to make reproducable and isolated work environments. 
 
 - Create a .devcontainer folder:
 ``` bash
